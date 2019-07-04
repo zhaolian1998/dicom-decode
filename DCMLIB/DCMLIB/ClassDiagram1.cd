@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DCMLIB.DCMAbstractType">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAIAAgAAAEAEAAACAAAABEACAAAAAAABAAQAA=</HashCode>
+      <FileName>DCMDataTypes.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="vrparser" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DCMLIB.DCMDataElement">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DCMDataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DCMDataSet">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEDAgAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>DCMDataTypes.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="TransferSyntax" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DCMLIB.TransferSyntax">
+    <Position X="14.25" Y="1" Width="1.5" />
+    <NestedTypes>
+      <Class Name="DCMLIB.TransferSyntax.TransferSyntaxs" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>TransferSyntax.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAEIAEAAAAAAAAAAGAAAkAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>TransferSyntax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.ImplicitVRLittleEndian">
+    <Position X="12.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TransferSyntax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.ExplicitVRBigEndian">
+    <Position X="14.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>TransferSyntax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.ExplicitVRLittleEndian">
+    <Position X="16.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>TransferSyntax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.VR">
+    <Position X="6.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAIAAAAAAEAAAAAAACAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.SS">
+    <Position X="0.5" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UT">
+    <Position X="7.75" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AS">
+    <Position X="11.25" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TM">
+    <Position X="9.5" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UN">
+    <Position X="2.25" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SQ">
+    <Position X="13" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OW">
+    <Position X="5.75" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OB">
+    <Position X="7.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LT">
+    <Position X="13" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FD">
+    <Position X="0.5" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FL">
+    <Position X="11.25" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.UL">
+    <Position X="14.75" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SL">
+    <Position X="0.5" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DA">
+    <Position X="4" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OF">
+    <Position X="5.75" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DT">
+    <Position X="7.75" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VRFactory">
+    <Position X="1.5" Y="12.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAACAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DicomDictionary">
+    <Position X="2" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>DicomDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DCMDataItem">
+    <Position X="3" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>DCMDataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DCMDataSequnce">
+    <Position X="5.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>DCMDataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DCMFileMeta">
+    <Position X="7.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>DCMDataTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DCMLIB.DCMFile">
+    <Position X="9.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAEAAAAAAAAAAAAABAAAAAAQAAAAAA=</HashCode>
+      <FileName>DCMDataTypes.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="filemete" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="DCMLIB.US">
+    <Position X="4" Y="18" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

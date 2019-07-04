@@ -1,0 +1,35 @@
+C:\Users\usst\source\repos\DCMLIB\DCMLIB\bin\Debug\DCMLIB.dll
+C:\Users\usst\source\repos\DCMLIB\DCMLIB\bin\Debug\DCMLIB.pdb
+C:\Users\usst\source\repos\DCMLIB\DCMLIB\obj\Debug\DCMLIB.csprojAssemblyReference.cache
+C:\Users\usst\source\repos\DCMLIB\DCMLIB\obj\Debug\DCMLIB.csproj.CoreCompileInputs.cache
+C:\Users\usst\source\repos\DCMLIB\DCMLIB\obj\Debug\DCMLIB.dll
+C:\Users\usst\source\repos\DCMLIB\DCMLIB\obj\Debug\DCMLIB.pdb
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB\DCMLIB\obj\Debug\DCMLIB.csprojAssemblyReference.cache
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB\DCMLIB\obj\Debug\DCMLIB.csproj.CoreCompileInputs.cache
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB\DCMLIB\obj\Debug\DCMLIB.dll
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB\DCMLIB\obj\Debug\DCMLIB.pdb
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB\DCMLIB\bin\Debug\DCMLIB.dll
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB\DCMLIB\bin\Debug\DCMLIB.pdb
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DCMLIB\bin\Debug\DCMLIB.dll
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DCMLIB\bin\Debug\DCMLIB.pdb
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DCMLIB\obj\Debug\DCMLIB.csprojAssemblyReference.cache
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DCMLIB\obj\Debug\DCMLIB.csproj.CoreCompileInputs.cache
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DCMLIB\obj\Debug\DCMLIB.dll
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DCMLIB\obj\Debug\DCMLIB.pdb
+C:\Users\usst\Desktop\DCMLIB\DCMLIB\bin\Debug\DCMLIB.dll
+C:\Users\usst\Desktop\DCMLIB\DCMLIB\bin\Debug\DCMLIB.pdb
+C:\Users\usst\Desktop\DCMLIB\DCMLIB\obj\Debug\DCMLIB.csproj.CoreCompileInputs.cache
+C:\Users\usst\Desktop\DCMLIB\DCMLIB\obj\Debug\DCMLIB.dll
+C:\Users\usst\Desktop\DCMLIB\DCMLIB\obj\Debug\DCMLIB.pdb
+C:\Users\yun11\Desktop\DCMLIB\DCMLIB\bin\Debug\DCMLIB.dll
+C:\Users\yun11\Desktop\DCMLIB\DCMLIB\bin\Debug\DCMLIB.pdb
+C:\Users\yun11\Desktop\DCMLIB\DCMLIB\obj\Debug\DCMLIB.csproj.CoreCompileInputs.cache
+C:\Users\yun11\Desktop\DCMLIB\DCMLIB\obj\Debug\DCMLIB.dll
+C:\Users\yun11\Desktop\DCMLIB\DCMLIB\obj\Debug\DCMLIB.pdb
+C:\Users\yun11\Desktop\DCMLIB\DCMLIB\obj\Debug\DCMLIB.csprojAssemblyReference.cache
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DCMLIB\bin\Debug\DCMLIB.dll
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DCMLIB\bin\Debug\DCMLIB.pdb
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DCMLIB\obj\Debug\DCMLIB.csprojAssemblyReference.cache
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DCMLIB\obj\Debug\DCMLIB.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DCMLIB\obj\Debug\DCMLIB.dll
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DCMLIB\obj\Debug\DCMLIB.pdb

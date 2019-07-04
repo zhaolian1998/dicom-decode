@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DCMLIB", "DCMLIB\DCMLIB.csproj", "{5271110F-330D-4E14-B619-40BAF04F2C28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DicomParser", "DicomParser\DicomParser.csproj", "{CA9CA0CC-6693-44D4-A3DD-1E5FF6600FB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5271110F-330D-4E14-B619-40BAF04F2C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5271110F-330D-4E14-B619-40BAF04F2C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5271110F-330D-4E14-B619-40BAF04F2C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5271110F-330D-4E14-B619-40BAF04F2C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9CA0CC-6693-44D4-A3DD-1E5FF6600FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9CA0CC-6693-44D4-A3DD-1E5FF6600FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9CA0CC-6693-44D4-A3DD-1E5FF6600FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9CA0CC-6693-44D4-A3DD-1E5FF6600FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F9422DE-CBB2-430E-9649-6C197DB6013E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,55 @@
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DicomParser\obj\Debug\DicomParser.csprojAssemblyReference.cache
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DicomParser\obj\Debug\DicomParser.DicomParser.resources
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DicomParser\obj\Debug\DicomParser.Properties.Resources.resources
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DicomParser\obj\Debug\DicomParser.csproj.GenerateResource.cache
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DicomParser\obj\Debug\DicomParser.csproj.CoreCompileInputs.cache
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DicomParser\bin\Debug\DicomParser.exe.config
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DicomParser\bin\Debug\DicomParser.exe
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DicomParser\bin\Debug\DicomParser.pdb
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DicomParser\bin\Debug\DCMLIB.dll
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DicomParser\bin\Debug\DCMLIB.pdb
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DicomParser\obj\Debug\DicomParser.csproj.CopyComplete
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DicomParser\obj\Debug\DicomParser.exe
+C:\Users\yun11\Desktop\课件\医用软件技术\新建文件夹 (2)\DCMLIB(2)\DCMLIB\DicomParser\obj\Debug\DicomParser.pdb
+C:\Users\usst\Desktop\DCMLIB\DicomParser\bin\Debug\DicomParser.exe.config
+C:\Users\usst\Desktop\DCMLIB\DicomParser\bin\Debug\DicomParser.exe
+C:\Users\usst\Desktop\DCMLIB\DicomParser\bin\Debug\DicomParser.pdb
+C:\Users\usst\Desktop\DCMLIB\DicomParser\bin\Debug\DCMLIB.dll
+C:\Users\usst\Desktop\DCMLIB\DicomParser\bin\Debug\DCMLIB.pdb
+C:\Users\usst\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.csprojAssemblyReference.cache
+C:\Users\usst\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.DicomParser.resources
+C:\Users\usst\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.Properties.Resources.resources
+C:\Users\usst\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.csproj.GenerateResource.cache
+C:\Users\usst\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.csproj.CoreCompileInputs.cache
+C:\Users\usst\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.csproj.CopyComplete
+C:\Users\usst\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.exe
+C:\Users\usst\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.pdb
+C:\Users\usst\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.frmImage.resources
+C:\Users\yun11\Desktop\DCMLIB\DicomParser\bin\Debug\DicomParser.exe.config
+C:\Users\yun11\Desktop\DCMLIB\DicomParser\bin\Debug\DicomParser.exe
+C:\Users\yun11\Desktop\DCMLIB\DicomParser\bin\Debug\DicomParser.pdb
+C:\Users\yun11\Desktop\DCMLIB\DicomParser\bin\Debug\DCMLIB.dll
+C:\Users\yun11\Desktop\DCMLIB\DicomParser\bin\Debug\DCMLIB.pdb
+C:\Users\yun11\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.csprojAssemblyReference.cache
+C:\Users\yun11\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.DicomParser.resources
+C:\Users\yun11\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.frmImage.resources
+C:\Users\yun11\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.Properties.Resources.resources
+C:\Users\yun11\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.csproj.GenerateResource.cache
+C:\Users\yun11\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.csproj.CoreCompileInputs.cache
+C:\Users\yun11\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.csproj.CopyComplete
+C:\Users\yun11\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.exe
+C:\Users\yun11\Desktop\DCMLIB\DicomParser\obj\Debug\DicomParser.pdb
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DicomParser\bin\Debug\DicomParser.exe.config
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DicomParser\bin\Debug\DicomParser.exe
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DicomParser\bin\Debug\DicomParser.pdb
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DicomParser\bin\Debug\DCMLIB.dll
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DicomParser\bin\Debug\DCMLIB.pdb
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DicomParser\obj\Debug\DicomParser.csprojAssemblyReference.cache
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DicomParser\obj\Debug\DicomParser.DicomParser.resources
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DicomParser\obj\Debug\DicomParser.frmImage.resources
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DicomParser\obj\Debug\DicomParser.Properties.Resources.resources
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DicomParser\obj\Debug\DicomParser.csproj.GenerateResource.cache
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DicomParser\obj\Debug\DicomParser.csproj.CoreCompileInputs.cache
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DicomParser\obj\Debug\DicomParser.csproj.CopyComplete
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DicomParser\obj\Debug\DicomParser.exe
+C:\Users\zhaol\Documents\Tencent Files\935906053\FileRecv\DCMLIB (终级)\DCMLIB\DicomParser\obj\Debug\DicomParser.pdb
